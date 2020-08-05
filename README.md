@@ -13,4 +13,4 @@ Sou um Front-End Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/patrickspessoa/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:patrickspessoa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-patrickspessoa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickspessoa@gmail.com)](mailto:patrickspessoa@gmail.com)
